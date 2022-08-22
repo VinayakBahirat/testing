@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>vinu</title>
+</head>
+<body>
+<h2> checkboxes</h2>
+<p>this is a paraghraph</p>
+
+<form action="/action_page.php">
+<input type="checkbox" id="vehiclel1"
+name="vehicle1" value="bike"
+<label for="vehiclel1"> i have a bike</label><br>
+<input type="checkbox" id="vehicle2"
+name="vehicle2" value="car">
+<label for="vehicle2"> i have a car</label><br>
+<input type="checkbox" id="vehicle3"
+name="vehiclel3" value="Boat">
+<label for="vehicale3"> have a boat</label><br>
+<br>
+<input type="submit" value="submit">
+</form>
+</body>
+</html>
